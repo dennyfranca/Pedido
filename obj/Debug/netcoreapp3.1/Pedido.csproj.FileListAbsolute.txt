@@ -1,0 +1,6 @@
+C:\Users\Denny França\Desktop\Pedido\obj\Debug\netcoreapp3.1\Pedido.csprojAssemblyReference.cache
+C:\Users\Denny França\Desktop\Pedido\obj\Debug\netcoreapp3.1\Pedido.Form1.resources
+C:\Users\Denny França\Desktop\Pedido\obj\Debug\netcoreapp3.1\Pedido.csproj.GenerateResource.cache
+C:\Users\Denny França\Desktop\Pedido\obj\Debug\netcoreapp3.1\Pedido.AssemblyInfoInputs.cache
+C:\Users\Denny França\Desktop\Pedido\obj\Debug\netcoreapp3.1\Pedido.AssemblyInfo.cs
+C:\Users\Denny França\Desktop\Pedido\obj\Debug\netcoreapp3.1\Pedido.csproj.CoreCompileInputs.cache
